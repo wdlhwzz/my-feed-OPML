@@ -10,8 +10,8 @@ on:
     branches: [ master ]
 
 env:
-  GITHUB_NAME: superleeyom
-  GITHUB_EMAIL: 635709492@qq.com
+  GITHUB_NAME: wdlhwzz
+  GITHUB_EMAIL: hhxxttx74@gmail.com
 
 jobs:
   build:
